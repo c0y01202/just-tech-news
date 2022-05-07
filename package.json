@@ -1,14 +1,14 @@
 {
   "name": "newsfeed-api",
   "version": "1.0.0",
-  "description": "news blog",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "jest",
     "start": "node server.js",
     "seeds": "node seeds/index.js"
   },
-  "author": "Claudia Chittim",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^4.0.1",
@@ -19,13 +19,5 @@
   },
   "devDependencies": {
     "jest": "^25.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/c0y01202/just-tech-news.git"
-  },
-  "bugs": {
-    "url": "https://github.com/c0y01202/just-tech-news/issues"
-  },
-  "homepage": "https://github.com/c0y01202/just-tech-news#readme"
+  }
 }
